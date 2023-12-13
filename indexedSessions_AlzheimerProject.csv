@@ -1,2 +1,3 @@
 SessionName,Subject,Path,Strain,GeneticLine,Behavior,numCells,brainRegions,Drug,Project
 app039033_131023_sess1,app039033,app039033\app039033_131023_sess1,c57b1/6,wild type,open field,94,PTLp CA1,no,AlzheimerProject
+app039033_170223_sess3,app039033,app039033\app039033_170223_sess3,c57b1/6,wild type,open field,113,PTLp CA1,no,AlzheimerProject
