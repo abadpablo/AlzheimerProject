@@ -1,33 +1,31 @@
 SessionName,Subject,Path,Strain,GeneticLine,Behavior,numCells,brainRegions,Drug,Project
-app039033_251023_sess8,app039033,app039033\app039033_251023_sess8,c57b1/6,wild type,pc,42,PTLp CA1,no,AlzheimerProject
-app039031_161023_sess1,app039031,app039031\app039031_161023_sess1,c57b1/6,app/ps1,open field,73,PTLp CA1,no,AlzheimerProject
-app039033_071123_sess16,app039033,app039033\app039033_071123_sess16,c57b1/6,wild type,pc,25,PTLp CA1,no,AlzheimerProject
 app039033_131023_sess1,app039033,app039033\app039033_131023_sess1,c57b1/6,wild type,open field,41,PTLp CA1,no,AlzheimerProject
 app039033_170223_sess3,app039033,app039033\app039033_170223_sess3,c57b1/6,wild type,open field,49,PTLp CA1,no,AlzheimerProject
+app039033_251023_sess8,app039033,app039033\app039033_251023_sess8,c57b1/6,wild type,pc,42,PTLp CA1,no,AlzheimerProject
 app039033_261023_sess9,app039033,app039033\app039033_261023_sess9,c57b1/6,wild type,pc,39,PTLp CA1,no,AlzheimerProject
+app039033_271023_sess10,app039033,app039033\app039033_271023_sess10,c57b1/6,appps1  wt,open field,60,PTLp CA1sp CA1sr,no,AlzheimerProject
 app039033_301023_sess11,app039033,app039033\app039033_301023_sess11,c57b1/6,wild type,pc,41,PTLp CA1,no,AlzheimerProject
 app039033_021123_sess13,app039033,app039033\app039033_021123_sess13,c57b1/6,wild type,open field,57,PTLp CA1,no,AlzheimerProject
 app039033_031123_sess14,app039033,app039033\app039033_031123_sess14,c57b1/6,wild type,open field,57,CA1,no,AlzheimerProject
-app039031_170223_sess2,app039031,app039031\app039031_170223_sess2,c57b1/6,app/ps1,open field,79,CA1,no,AlzheimerProject
-app039031_091123_sess16,app039031,app039031\app039031_091123_sess16,c57b1/6,app/ps1,open field,61,CA1,no,AlzheimerProject
+app039033_071123_sess16,app039033,app039033\app039033_071123_sess16,c57b1/6,wild type,pc,25,PTLp CA1,no,AlzheimerProject
 app039033_091123_sess18,app039033,app039033\app039033_091123_sess18,c57b1/6,wild type,open field,46,CA1,no,AlzheimerProject
 app039033_101123_sess19,app039033,app039033\app039033_101123_sess19,c57b1/6,wild type,open field,52,CA1,no,AlzheimerProject
-app039033_221123_sess26,app039033,app039033\app039033_221123_sess26,c57b1/6,wild type,open field,68,CA1,no,AlzheimerProject
-app039033_211123_sess25,app039033,app039033\app039033_211123_sess25,c57b1/6,wild type,open field,76,CA1,no,AlzheimerProject
-app039033_161123_sess22,app039033,app039033\app039033_161123_sess22,c57b1/6,wild type,open field,65,CA1,no,AlzheimerProject
 app039033_131123_sess20,app039033,app039033\app039033_131123_sess20,c57b1/6,wild type,open field,53,CA1,no,AlzheimerProject
+app039033_161123_sess22,app039033,app039033\app039033_161123_sess22,c57b1/6,wild type,open field,65,CA1,no,AlzheimerProject
 app039033_171123_sess23,app039033,app039033\app039033_171123_sess23,c57b1/6,wild type,open field,45,CA1,no,AlzheimerProject
 app039033_201123_sess24,app039033,app039033\app039033_201123_sess24,c57b1/6,wild type,home cage,48,CA1,no,AlzheimerProject
-app039033_271023_sess10,app039033,app039033\app039033_271023_sess10,c57b1/6,appps1  wt,open field,60,PTLp CA1sp CA1sr,no,AlzheimerProject
-app61_030124_sess11,app61,app61\app61_030124_sess11,c57b1/6,appps1  wt,no,60,CA1,no,AlzheimerProject
-app61_080125_sess12,app61,app61\app61_080125_sess12,c57b1/6,appps1 wt,no,82,CA1,no,AlzheimerProject
-app61_150125_sess16,app61,app61\app61_150125_sess16,c57b1/6,appps1 wt,no,59,CA1,no,AlzheimerProject
-app61_170125_sess18,app61,app61\app61_170125_sess18,c57b1/6,appps1  wt,no,48,CA1,no,AlzheimerProject
-app039033_311023_sess12,app039033,app039033\app039033_311023_sess12,c57b1/6,appps1  wt,open field,78,PTLp CA1so pCA1sp pCA1sr,no,AlzheimerProject
+app039033_211123_sess25,app039033,app039033\app039033_211123_sess25,c57b1/6,wild type,open field,76,CA1,no,AlzheimerProject
+app039033_221123_sess26,app039033,app039033\app039033_221123_sess26,c57b1/6,wild type,open field,68,CA1,no,AlzheimerProject
+app039031_161023_sess1,app039031,app039031\app039031_161023_sess1,c57b1/6,app/ps1,open field,73,PTLp CA1,no,AlzheimerProject
+app039031_170223_sess2,app039031,app039031\app039031_170223_sess2,c57b1/6,app/ps1,open field,79,CA1,no,AlzheimerProject
 app039031_241023_sess6,app039031,app039031\app039031_241023_sess6,c57b1/6,appps1 mt,open field,87,CA1,no,AlzheimerProject
 app039031_261023_sess7,app039031,app039031\app039031_261023_sess7,c57b1/6,appps1 mt,open field,54,CA1,no,AlzheimerProject
+app039031_091123_sess16,app039031,app039031\app039031_091123_sess16,c57b1/6,app/ps1,open field,61,CA1,no,AlzheimerProject
 app61_021224_sess1,app61,app61\app61_021224_sess1,c57b1/6,wild type,no,104,CA1 VISp,no,AlzheimerProject
 app61_091224_sess2,app61,app61\app61_091224_sess2,c57b1/6,appps1  wt,open field,36,CA1,no,AlzheimerProject
 app61_101224_sess3,app61,app61\app61_101224_sess3,c57b1/6,appps1  wt,open field,66,CA1,no,AlzheimerProject
 app61_111224_sess4,app61,app61\app61_111224_sess4,c57b1/6,appps1  wt,open field open field,67,CA1,no,AlzheimerProject
 app61_191224_sess10,app61,app61\app61_191224_sess10,c57b1/6,appps1  wt,dtm dtm,5,CA1,no,AlzheimerProject
+app61_030124_sess11,app61,app61\app61_030124_sess11,c57b1/6,appps1  wt,no,60,CA1,no,AlzheimerProject
+app61_080125_sess12,app61,app61\app61_080125_sess12,c57b1/6,appps1 wt,no,82,CA1,no,AlzheimerProject
+app039031_201023_sess4,app039031,app039031\app039031_201023_sess4,c57b1/6,wild type,open field,48,CA1,no,AlzheimerProject
